@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+*.env
+.DS_Store
+.python-version
+README.md
+pyproject.toml
+src/
+uv.lock
+ReRanking/rag_reranking_colab.ipynb
+RAG/rag_reranking.ipynb
+CrewAI/crewai_gemini_python314.ipynb
+RAG/rag_reranking_colab.ipynb
